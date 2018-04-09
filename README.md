@@ -33,3 +33,10 @@ go build .
 ## Usage
 
 Open your navigator and go to http://localhost:8080/ or click [here](http://localhost:8080/).
+
+## Docker
+
+```bash
+docker build .
+
+```
