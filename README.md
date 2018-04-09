@@ -30,13 +30,13 @@ go build .
 ./go-angular-chat-server
 ```
 
-## Usage
-
-Open your navigator and go to http://localhost:8080/ or click [here](http://localhost:8080/).
-
 ## Docker
 
 ```bash
-docker build .
-
+docker build -t gong-server .
+docker run -p 8080:8080 gong-server
 ```
+
+## Usage
+
+Open your navigator and go to http://localhost:8080/ or click [here](http://localhost:8080/).
