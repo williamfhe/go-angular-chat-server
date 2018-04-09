@@ -19,7 +19,8 @@ You are gonna need go to launch the server, if it isn't already installed go [he
 Clone this repository
 
 ```bash
-git clone https://github.com/williamfhe/go-angular-chat-client.git
+go get github.com/williamfhe/go-angular-chat-server
+cd $GOPATH/src/github.com/williamfhe/go-angular-chat-server
 ```
 
 Build the server and launch it
