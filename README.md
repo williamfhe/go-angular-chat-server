@@ -14,7 +14,7 @@ The client can be found [here](https://github.com/williamfhe/go-angular-chat-cli
 
 ## Installation
 
-You are gonna need Go to launch the server, if it isn't already installed go [here](https://golang.org/).
+You are gonna need Go to launch the server, if it isn't already installed click [here](https://golang.org/).
 
 Clone this repository
 
