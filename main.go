@@ -5,7 +5,7 @@ import (
 	"net/http"
 )
 
-var addr = "localhost:8080"
+var addr = "0.0.0.0:8080"
 
 func serveHome(w http.ResponseWriter, r *http.Request) {
 	log.Println(r.URL)
